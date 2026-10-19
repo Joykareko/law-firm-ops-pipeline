@@ -1,0 +1,456 @@
+week_start,channel,leads,trailing_avg,is_anomaly
+2024-12-30,Facebook Ads,4,,false
+2024-12-30,Google Ads,15,,false
+2024-12-30,Legal Directory,1,,false
+2024-12-30,Referral,8,,false
+2024-12-30,Website Organic,3,,false
+2025-01-06,Facebook Ads,7,4.0,false
+2025-01-06,Google Ads,17,15.0,false
+2025-01-06,Legal Directory,4,1.0,false
+2025-01-06,Referral,7,8.0,false
+2025-01-06,Website Organic,11,3.0,false
+2025-01-13,Facebook Ads,6,5.5,false
+2025-01-13,Google Ads,12,16.0,false
+2025-01-13,Legal Directory,8,2.5,false
+2025-01-13,Referral,10,7.5,false
+2025-01-13,Website Organic,9,7.0,false
+2025-01-20,Facebook Ads,5,5.7,false
+2025-01-20,Google Ads,9,14.7,false
+2025-01-20,Legal Directory,4,4.3,false
+2025-01-20,Referral,5,8.3,false
+2025-01-20,Website Organic,12,7.7,false
+2025-01-27,Facebook Ads,6,5.5,false
+2025-01-27,Google Ads,16,13.3,false
+2025-01-27,Legal Directory,8,4.3,false
+2025-01-27,Referral,5,7.5,false
+2025-01-27,Website Organic,13,8.8,false
+2025-02-03,Facebook Ads,5,5.6,false
+2025-02-03,Google Ads,9,13.8,false
+2025-02-03,Legal Directory,5,5.0,false
+2025-02-03,Referral,6,7.0,false
+2025-02-03,Website Organic,10,9.6,false
+2025-02-10,Facebook Ads,7,5.5,false
+2025-02-10,Google Ads,14,13.0,false
+2025-02-10,Legal Directory,2,5.0,false
+2025-02-10,Referral,5,6.8,false
+2025-02-10,Website Organic,4,9.7,false
+2025-02-17,Facebook Ads,6,5.7,false
+2025-02-17,Google Ads,15,13.1,false
+2025-02-17,Legal Directory,5,4.6,false
+2025-02-17,Referral,8,6.6,false
+2025-02-17,Website Organic,10,8.9,false
+2025-02-24,Facebook Ads,8,5.8,false
+2025-02-24,Google Ads,13,13.4,false
+2025-02-24,Legal Directory,4,4.6,false
+2025-02-24,Referral,4,6.8,false
+2025-02-24,Website Organic,10,9.0,false
+2025-03-03,Facebook Ads,8,6.3,false
+2025-03-03,Google Ads,17,13.1,false
+2025-03-03,Legal Directory,2,5.0,false
+2025-03-03,Referral,6,6.3,false
+2025-03-03,Website Organic,11,9.9,false
+2025-03-10,Facebook Ads,14,6.4,false
+2025-03-10,Google Ads,10,13.1,false
+2025-03-10,Legal Directory,4,4.8,false
+2025-03-10,Referral,5,6.1,false
+2025-03-10,Website Organic,11,9.9,false
+2025-03-17,Facebook Ads,8,7.4,false
+2025-03-17,Google Ads,14,12.9,false
+2025-03-17,Legal Directory,5,4.3,false
+2025-03-17,Referral,10,5.5,false
+2025-03-17,Website Organic,9,10.1,false
+2025-03-24,Facebook Ads,10,7.8,false
+2025-03-24,Google Ads,12,13.5,false
+2025-03-24,Legal Directory,6,4.4,false
+2025-03-24,Referral,8,6.1,false
+2025-03-24,Website Organic,9,9.8,false
+2025-03-31,Facebook Ads,6,8.3,false
+2025-03-31,Google Ads,12,13.0,false
+2025-03-31,Legal Directory,4,4.1,false
+2025-03-31,Referral,11,6.5,false
+2025-03-31,Website Organic,11,9.3,false
+2025-04-07,Facebook Ads,10,8.4,false
+2025-04-07,Google Ads,11,13.4,false
+2025-04-07,Legal Directory,3,4.0,false
+2025-04-07,Referral,8,7.1,false
+2025-04-07,Website Organic,8,9.4,false
+2025-04-14,Facebook Ads,8,8.8,false
+2025-04-14,Google Ads,14,13.0,false
+2025-04-14,Legal Directory,3,4.1,false
+2025-04-14,Referral,9,7.5,false
+2025-04-14,Website Organic,10,9.9,false
+2025-04-21,Facebook Ads,6,9.0,false
+2025-04-21,Google Ads,9,12.9,false
+2025-04-21,Legal Directory,3,3.9,false
+2025-04-21,Referral,11,7.6,false
+2025-04-21,Website Organic,13,9.9,false
+2025-04-28,Facebook Ads,9,8.8,false
+2025-04-28,Google Ads,10,12.4,false
+2025-04-28,Legal Directory,4,3.8,false
+2025-04-28,Referral,10,8.5,false
+2025-04-28,Website Organic,8,10.3,false
+2025-05-05,Facebook Ads,10,8.9,false
+2025-05-05,Google Ads,20,11.5,false
+2025-05-05,Legal Directory,4,4.0,false
+2025-05-05,Referral,11,9.0,false
+2025-05-05,Website Organic,8,9.9,false
+2025-05-12,Facebook Ads,8,8.4,false
+2025-05-12,Google Ads,17,12.8,false
+2025-05-12,Legal Directory,5,4.0,false
+2025-05-12,Referral,10,9.8,false
+2025-05-12,Website Organic,11,9.5,false
+2025-05-19,Facebook Ads,3,8.4,false
+2025-05-19,Google Ads,18,13.1,false
+2025-05-19,Legal Directory,8,4.0,false
+2025-05-19,Referral,10,9.8,false
+2025-05-19,Website Organic,7,9.8,false
+2025-05-26,Facebook Ads,7,7.5,false
+2025-05-26,Google Ads,14,13.9,false
+2025-05-26,Legal Directory,5,4.3,false
+2025-05-26,Referral,10,10.0,false
+2025-05-26,Website Organic,12,9.5,false
+2025-06-02,Facebook Ads,1,7.6,false
+2025-06-02,Google Ads,10,14.1,false
+2025-06-02,Legal Directory,5,4.4,false
+2025-06-02,Referral,3,9.9,false
+2025-06-02,Website Organic,15,9.6,false
+2025-06-09,Facebook Ads,5,6.5,false
+2025-06-09,Google Ads,21,14.0,false
+2025-06-09,Legal Directory,8,4.6,false
+2025-06-09,Referral,9,9.3,false
+2025-06-09,Website Organic,9,10.5,false
+2025-06-16,Facebook Ads,4,6.1,false
+2025-06-16,Google Ads,14,14.9,false
+2025-06-16,Legal Directory,4,5.3,false
+2025-06-16,Referral,7,9.3,false
+2025-06-16,Website Organic,8,10.4,false
+2025-06-23,Facebook Ads,8,5.9,false
+2025-06-23,Google Ads,14,15.5,false
+2025-06-23,Legal Directory,6,5.4,false
+2025-06-23,Referral,7,8.8,false
+2025-06-23,Website Organic,9,9.8,false
+2025-06-30,Facebook Ads,5,5.8,false
+2025-06-30,Google Ads,16,16.0,false
+2025-06-30,Legal Directory,4,5.6,false
+2025-06-30,Referral,11,8.4,false
+2025-06-30,Website Organic,8,9.9,false
+2025-07-07,Facebook Ads,8,5.1,false
+2025-07-07,Google Ads,9,15.5,false
+2025-07-07,Legal Directory,3,5.6,false
+2025-07-07,Referral,10,8.4,false
+2025-07-07,Website Organic,6,9.9,false
+2025-07-14,Facebook Ads,3,5.1,false
+2025-07-14,Google Ads,17,14.5,false
+2025-07-14,Legal Directory,4,5.4,false
+2025-07-14,Referral,7,8.4,false
+2025-07-14,Website Organic,12,9.3,false
+2025-07-21,Facebook Ads,3,5.1,false
+2025-07-21,Google Ads,14,14.4,false
+2025-07-21,Legal Directory,5,4.9,false
+2025-07-21,Referral,7,8.0,false
+2025-07-21,Website Organic,7,9.9,false
+2025-07-28,Facebook Ads,7,4.6,false
+2025-07-28,Google Ads,8,14.4,false
+2025-07-28,Legal Directory,2,4.9,false
+2025-07-28,Referral,3,7.6,false
+2025-07-28,Website Organic,11,9.3,false
+2025-08-04,Facebook Ads,11,5.4,false
+2025-08-04,Google Ads,16,14.1,false
+2025-08-04,Legal Directory,2,4.5,false
+2025-08-04,Referral,7,7.6,false
+2025-08-04,Website Organic,8,8.8,false
+2025-08-11,Facebook Ads,5,6.1,false
+2025-08-11,Google Ads,9,13.5,false
+2025-08-11,Legal Directory,3,3.8,false
+2025-08-11,Referral,6,7.4,false
+2025-08-11,Website Organic,11,8.6,false
+2025-08-18,Facebook Ads,6,6.3,false
+2025-08-18,Google Ads,18,12.9,false
+2025-08-18,Legal Directory,5,3.6,false
+2025-08-18,Referral,4,7.3,false
+2025-08-18,Website Organic,6,9.0,false
+2025-08-25,Facebook Ads,9,6.0,false
+2025-08-25,Google Ads,9,13.4,false
+2025-08-25,Legal Directory,4,3.5,false
+2025-08-25,Referral,6,6.9,false
+2025-08-25,Website Organic,11,8.6,false
+2025-09-01,Facebook Ads,4,6.5,false
+2025-09-01,Google Ads,15,12.5,false
+2025-09-01,Legal Directory,6,3.5,false
+2025-09-01,Referral,2,6.3,false
+2025-09-01,Website Organic,6,9.0,false
+2025-09-08,Facebook Ads,9,6.0,false
+2025-09-08,Google Ads,7,13.3,false
+2025-09-08,Legal Directory,4,3.9,false
+2025-09-08,Referral,5,5.3,false
+2025-09-08,Website Organic,7,9.0,false
+2025-09-15,Facebook Ads,6,6.8,false
+2025-09-15,Google Ads,11,12.0,false
+2025-09-15,Legal Directory,1,3.9,false
+2025-09-15,Referral,9,5.0,false
+2025-09-15,Website Organic,7,8.4,false
+2025-09-22,Facebook Ads,7,7.1,false
+2025-09-22,Google Ads,7,11.6,false
+2025-09-22,Legal Directory,4,3.4,false
+2025-09-22,Referral,7,5.3,false
+2025-09-22,Website Organic,6,8.4,false
+2025-09-29,Facebook Ads,2,7.1,false
+2025-09-29,Google Ads,15,11.5,false
+2025-09-29,Legal Directory,3,3.6,false
+2025-09-29,Referral,8,5.8,false
+2025-09-29,Website Organic,8,7.8,false
+2025-10-06,Facebook Ads,8,6.0,false
+2025-10-06,Google Ads,16,11.4,false
+2025-10-06,Legal Directory,6,3.8,false
+2025-10-06,Referral,7,5.9,false
+2025-10-06,Website Organic,11,7.8,false
+2025-10-13,Facebook Ads,9,6.4,false
+2025-10-13,Google Ads,8,12.3,false
+2025-10-13,Legal Directory,5,4.1,false
+2025-10-13,Referral,5,6.0,false
+2025-10-13,Website Organic,6,7.8,false
+2025-10-20,Facebook Ads,9,6.8,false
+2025-10-20,Google Ads,15,11.0,false
+2025-10-20,Legal Directory,2,4.1,false
+2025-10-20,Referral,5,6.1,false
+2025-10-20,Website Organic,7,7.8,false
+2025-10-27,Facebook Ads,12,6.8,false
+2025-10-27,Google Ads,14,11.8,false
+2025-10-27,Legal Directory,6,3.9,false
+2025-10-27,Referral,6,6.0,false
+2025-10-27,Website Organic,8,7.3,false
+2025-11-03,Facebook Ads,14,7.8,false
+2025-11-03,Google Ads,15,11.6,false
+2025-11-03,Legal Directory,6,3.9,false
+2025-11-03,Referral,10,6.5,false
+2025-11-03,Website Organic,13,7.5,false
+2025-11-10,Facebook Ads,12,8.4,false
+2025-11-10,Google Ads,14,12.6,false
+2025-11-10,Legal Directory,4,4.1,false
+2025-11-10,Referral,6,7.1,false
+2025-11-10,Website Organic,8,8.3,false
+2025-11-17,Facebook Ads,8,9.1,false
+2025-11-17,Google Ads,8,13.0,false
+2025-11-17,Legal Directory,6,4.5,false
+2025-11-17,Referral,7,6.8,false
+2025-11-17,Website Organic,9,8.4,false
+2025-11-24,Facebook Ads,6,9.3,false
+2025-11-24,Google Ads,21,13.1,false
+2025-11-24,Legal Directory,7,4.8,false
+2025-11-24,Referral,12,6.8,false
+2025-11-24,Website Organic,10,8.8,false
+2025-12-01,Facebook Ads,5,9.8,false
+2025-12-01,Google Ads,18,13.9,false
+2025-12-01,Legal Directory,4,5.3,false
+2025-12-01,Referral,3,7.3,false
+2025-12-01,Website Organic,7,9.0,false
+2025-12-08,Facebook Ads,6,9.4,false
+2025-12-08,Google Ads,12,14.1,false
+2025-12-08,Legal Directory,8,5.0,false
+2025-12-08,Referral,10,6.8,false
+2025-12-08,Website Organic,9,8.5,false
+2025-12-15,Facebook Ads,7,9.0,false
+2025-12-15,Google Ads,14,14.6,false
+2025-12-15,Legal Directory,4,5.4,false
+2025-12-15,Referral,6,7.4,false
+2025-12-15,Website Organic,9,8.9,false
+2025-12-22,Facebook Ads,13,8.8,false
+2025-12-22,Google Ads,10,14.5,false
+2025-12-22,Legal Directory,4,5.6,false
+2025-12-22,Referral,10,7.5,false
+2025-12-22,Website Organic,6,9.1,false
+2025-12-29,Facebook Ads,9,8.9,false
+2025-12-29,Google Ads,15,14.0,false
+2025-12-29,Legal Directory,5,5.4,false
+2025-12-29,Referral,7,8.0,false
+2025-12-29,Website Organic,7,8.9,false
+2026-01-05,Facebook Ads,5,8.3,false
+2026-01-05,Google Ads,16,14.0,false
+2026-01-05,Legal Directory,9,5.3,false
+2026-01-05,Referral,10,7.6,false
+2026-01-05,Website Organic,11,8.1,false
+2026-01-12,Facebook Ads,6,7.4,false
+2026-01-12,Google Ads,15,14.3,false
+2026-01-12,Legal Directory,8,5.9,false
+2026-01-12,Referral,11,8.1,false
+2026-01-12,Website Organic,9,8.5,false
+2026-01-19,Facebook Ads,6,7.1,false
+2026-01-19,Google Ads,19,15.1,false
+2026-01-19,Legal Directory,9,6.1,false
+2026-01-19,Referral,11,8.6,false
+2026-01-19,Website Organic,6,8.5,false
+2026-01-26,Facebook Ads,7,7.1,false
+2026-01-26,Google Ads,12,14.9,false
+2026-01-26,Legal Directory,8,6.4,false
+2026-01-26,Referral,10,8.5,false
+2026-01-26,Website Organic,7,8.0,false
+2026-02-02,Facebook Ads,5,7.4,false
+2026-02-02,Google Ads,16,14.1,false
+2026-02-02,Legal Directory,7,6.9,false
+2026-02-02,Referral,17,9.4,false
+2026-02-02,Website Organic,12,8.0,false
+2026-02-09,Facebook Ads,10,7.3,false
+2026-02-09,Google Ads,17,14.6,false
+2026-02-09,Legal Directory,3,6.8,false
+2026-02-09,Referral,6,10.3,false
+2026-02-09,Website Organic,12,8.4,false
+2026-02-16,Facebook Ads,8,7.6,false
+2026-02-16,Google Ads,18,15.0,false
+2026-02-16,Legal Directory,4,6.6,false
+2026-02-16,Referral,5,10.3,false
+2026-02-16,Website Organic,17,8.8,false
+2026-02-23,Facebook Ads,14,7.0,false
+2026-02-23,Google Ads,11,16.0,false
+2026-02-23,Legal Directory,8,6.6,false
+2026-02-23,Referral,5,9.6,false
+2026-02-23,Website Organic,8,10.1,false
+2026-03-02,Facebook Ads,7,7.6,false
+2026-03-02,Google Ads,23,15.5,false
+2026-03-02,Legal Directory,2,7.0,false
+2026-03-02,Referral,6,9.4,false
+2026-03-02,Website Organic,10,10.3,false
+2026-03-09,Facebook Ads,8,7.9,false
+2026-03-09,Google Ads,0,16.4,true
+2026-03-09,Legal Directory,5,6.1,false
+2026-03-09,Referral,12,8.9,false
+2026-03-09,Website Organic,10,10.1,false
+2026-03-16,Facebook Ads,7,8.1,false
+2026-03-16,Google Ads,0,14.5,true
+2026-03-16,Legal Directory,4,5.8,false
+2026-03-16,Referral,8,9.0,false
+2026-03-16,Website Organic,14,10.3,false
+2026-03-23,Facebook Ads,12,8.3,false
+2026-03-23,Google Ads,0,12.1,true
+2026-03-23,Legal Directory,5,5.1,false
+2026-03-23,Referral,9,8.6,false
+2026-03-23,Website Organic,9,11.3,false
+2026-03-30,Facebook Ads,7,8.9,false
+2026-03-30,Google Ads,24,10.6,false
+2026-03-30,Legal Directory,0,4.8,false
+2026-03-30,Referral,7,8.5,false
+2026-03-30,Website Organic,9,11.5,false
+2026-04-06,Facebook Ads,10,9.1,false
+2026-04-06,Google Ads,20,11.6,false
+2026-04-06,Legal Directory,7,3.9,false
+2026-04-06,Referral,8,7.3,false
+2026-04-06,Website Organic,8,11.1,false
+2026-04-13,Facebook Ads,12,9.1,false
+2026-04-13,Google Ads,25,12.0,false
+2026-04-13,Legal Directory,5,4.4,false
+2026-04-13,Referral,6,7.5,false
+2026-04-13,Website Organic,15,10.6,false
+2026-04-20,Facebook Ads,11,9.6,false
+2026-04-20,Google Ads,14,12.9,false
+2026-04-20,Legal Directory,3,4.5,false
+2026-04-20,Referral,7,7.6,false
+2026-04-20,Website Organic,15,10.4,false
+2026-04-27,Facebook Ads,8,9.3,false
+2026-04-27,Google Ads,15,13.3,false
+2026-04-27,Legal Directory,1,3.9,false
+2026-04-27,Referral,12,7.9,false
+2026-04-27,Website Organic,11,11.3,false
+2026-05-04,Facebook Ads,11,9.4,false
+2026-05-04,Google Ads,19,12.3,false
+2026-05-04,Legal Directory,7,3.8,false
+2026-05-04,Referral,8,8.6,false
+2026-05-04,Website Organic,11,11.4,false
+2026-05-11,Facebook Ads,8,9.8,false
+2026-05-11,Google Ads,17,14.6,false
+2026-05-11,Legal Directory,7,4.0,false
+2026-05-11,Referral,7,8.1,false
+2026-05-11,Website Organic,13,11.5,false
+2026-05-18,Facebook Ads,7,9.9,false
+2026-05-18,Google Ads,19,16.8,false
+2026-05-18,Legal Directory,4,4.4,false
+2026-05-18,Referral,6,8.0,false
+2026-05-18,Website Organic,15,11.4,false
+2026-05-25,Facebook Ads,12,9.3,false
+2026-05-25,Google Ads,19,19.1,false
+2026-05-25,Legal Directory,4,4.3,false
+2026-05-25,Referral,11,7.6,false
+2026-05-25,Website Organic,10,12.1,false
+2026-06-01,Facebook Ads,5,9.9,false
+2026-06-01,Google Ads,16,18.5,false
+2026-06-01,Legal Directory,9,4.8,false
+2026-06-01,Referral,15,8.1,false
+2026-06-01,Website Organic,12,12.3,false
+2026-06-08,Facebook Ads,6,9.3,false
+2026-06-08,Google Ads,20,18.0,false
+2026-06-08,Legal Directory,7,5.0,false
+2026-06-08,Referral,7,9.0,false
+2026-06-08,Website Organic,16,12.8,false
+2026-06-15,Facebook Ads,3,8.5,false
+2026-06-15,Google Ads,20,17.4,false
+2026-06-15,Legal Directory,2,5.3,false
+2026-06-15,Referral,11,9.1,false
+2026-06-15,Website Organic,10,12.9,false
+2026-06-22,Facebook Ads,8,7.5,false
+2026-06-22,Google Ads,15,18.1,false
+2026-06-22,Legal Directory,7,5.1,false
+2026-06-22,Referral,12,9.6,false
+2026-06-22,Website Organic,12,12.3,false
+2026-06-29,Facebook Ads,12,7.5,false
+2026-06-29,Google Ads,13,18.1,false
+2026-06-29,Legal Directory,4,5.9,false
+2026-06-29,Referral,14,9.6,false
+2026-06-29,Website Organic,13,12.4,false
+2026-07-06,Facebook Ads,17,7.6,false
+2026-07-06,Google Ads,28,17.4,false
+2026-07-06,Legal Directory,10,5.5,false
+2026-07-06,Referral,14,10.4,false
+2026-07-06,Website Organic,13,12.6,false
+2026-07-13,Facebook Ads,8,8.8,false
+2026-07-13,Google Ads,15,18.8,false
+2026-07-13,Legal Directory,6,5.9,false
+2026-07-13,Referral,9,11.3,false
+2026-07-13,Website Organic,13,12.6,false
+2026-07-20,Facebook Ads,12,8.9,false
+2026-07-20,Google Ads,16,18.3,false
+2026-07-20,Legal Directory,4,6.1,false
+2026-07-20,Referral,9,11.6,false
+2026-07-20,Website Organic,8,12.4,false
+2026-07-27,Facebook Ads,12,8.9,false
+2026-07-27,Google Ads,27,17.9,false
+2026-07-27,Legal Directory,7,6.1,false
+2026-07-27,Referral,11,11.4,false
+2026-07-27,Website Organic,15,12.1,false
+2026-08-03,Facebook Ads,11,9.8,false
+2026-08-03,Google Ads,16,19.3,false
+2026-08-03,Legal Directory,6,5.9,false
+2026-08-03,Referral,9,10.9,false
+2026-08-03,Website Organic,15,12.5,false
+2026-08-10,Facebook Ads,13,10.4,false
+2026-08-10,Google Ads,18,18.8,false
+2026-08-10,Legal Directory,8,5.8,false
+2026-08-10,Referral,9,11.1,false
+2026-08-10,Website Organic,10,12.4,false
+2026-08-17,Facebook Ads,7,11.6,false
+2026-08-17,Google Ads,15,18.5,false
+2026-08-17,Legal Directory,3,6.5,false
+2026-08-17,Referral,9,10.9,false
+2026-08-17,Website Organic,15,12.4,false
+2026-08-24,Facebook Ads,7,11.5,false
+2026-08-24,Google Ads,15,18.5,false
+2026-08-24,Legal Directory,3,6.0,false
+2026-08-24,Referral,11,10.5,false
+2026-08-24,Website Organic,6,12.8,false
+2026-08-31,Facebook Ads,3,10.9,false
+2026-08-31,Google Ads,21,18.8,false
+2026-08-31,Legal Directory,3,5.9,false
+2026-08-31,Referral,4,10.1,false
+2026-08-31,Website Organic,9,11.9,false
+2026-09-07,Facebook Ads,7,9.1,false
+2026-09-07,Google Ads,18,17.9,false
+2026-09-07,Legal Directory,3,5.0,false
+2026-09-07,Referral,5,8.9,false
+2026-09-07,Website Organic,13,11.4,false
+2026-09-14,Facebook Ads,8,9.0,false
+2026-09-14,Google Ads,11,18.3,false
+2026-09-14,Legal Directory,7,4.6,false
+2026-09-14,Referral,7,8.4,false
+2026-09-14,Website Organic,6,11.4,false
+2026-09-21,Facebook Ads,5,8.5,false
+2026-09-21,Google Ads,15,17.6,false
+2026-09-21,Legal Directory,5,5.0,false
+2026-09-21,Referral,11,8.1,false
+2026-09-21,Website Organic,15,11.1,false

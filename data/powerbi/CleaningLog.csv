@@ -1,0 +1,10 @@
+table,issue,rows_affected,action
+contacts,Inconsistent source casing,118,Mapped to standard channel names
+contacts,"Mixed date formats (epoch ms, ISO, US)",4317,Parsed to a single date type
+contacts,"Duplicate contacts (same email, different casing or spaces)",176,Kept the record furthest along the funnel
+matters,Practice area labels in 17 different spellings,293,Mapped to 5 standard practice areas
+time_entries,Exact duplicate rows from repeated exports,126,Removed
+time_entries,Negative hours (sign error),36,Converted to positive
+time_entries,Over 12 hours in one entry (likely decimal slip),13,Divided by 10 and flagged for review
+time_entries,Missing billing rate,194,Filled with attorney's standard rate
+invoices,Paid more than billed (data entry error),5,Capped at billed amount and flagged for finance

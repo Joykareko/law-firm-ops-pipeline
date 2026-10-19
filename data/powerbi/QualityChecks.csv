@@ -1,0 +1,8 @@
+check,failing_rows,status
+Every matter has a unique ID,0,PASS
+Matters link to a CRM contact,7,WARN
+Time entries link to a known matter,0,PASS
+No time entries dated in the future,0,PASS
+Every practice area mapped,0,PASS
+Invoices never exceed billed amount after cleaning,0,PASS
+Entries flagged for human review,13,WARN

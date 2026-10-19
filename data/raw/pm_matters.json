@@ -1,0 +1,6259 @@
+{
+ "data": [
+  {
+   "id": "M-00001",
+   "client": {
+    "email": "wei.jones779@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-01-16",
+   "close_date": "2025-10-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00002",
+   "client": {
+    "email": "patricia.martin368@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-02-06",
+   "close_date": "2025-04-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00003",
+   "client": {
+    "email": "elizabeth.rodriguez554@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-01-11",
+   "close_date": "2025-04-01",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00004",
+   "client": {
+    "email": "jennifer.khan662@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-02-01",
+   "close_date": "2025-05-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00005",
+   "client": {
+    "email": "eric.adams697@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-02-07",
+   "close_date": "2026-08-26",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00006",
+   "client": {
+    "email": "david.anderson834@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-02-02",
+   "close_date": "2025-02-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00007",
+   "client": {
+    "email": "linda.green711@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-01-25",
+   "close_date": "2025-02-16",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00008",
+   "client": {
+    "email": "linda.thomas759@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-01-15",
+   "close_date": "2025-02-22",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00009",
+   "client": {
+    "email": "mary.allen971@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-02-05",
+   "close_date": "2025-04-09",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00010",
+   "client": {
+    "email": "barbara.hernandez996@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-02-04",
+   "close_date": "2025-04-17",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00011",
+   "client": {
+    "email": "carlos.adams872@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-02-10",
+   "close_date": "2025-11-01",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00012",
+   "client": {
+    "email": "priya.scott847@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-02-13",
+   "close_date": "2025-02-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00013",
+   "client": {
+    "email": "brian.smith824@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-01-24",
+   "close_date": "2025-05-02",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00014",
+   "client": {
+    "email": "unknown1478@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-02-12",
+   "close_date": "2025-07-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00015",
+   "client": {
+    "email": "patricia.taylor972@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-01-21",
+   "close_date": "2025-03-03",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00016",
+   "client": {
+    "email": "sarah.martinez798@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-02-14",
+   "close_date": "2025-04-13",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00017",
+   "client": {
+    "email": "lisa.williams797@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-02-10",
+   "close_date": "2025-03-26",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00018",
+   "client": {
+    "email": "michael.baker733@Example.com "
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-02-11",
+   "close_date": "2025-11-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00019",
+   "client": {
+    "email": "jennifer.miller607@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-02-20",
+   "close_date": "2025-10-17",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00020",
+   "client": {
+    "email": "lisa.wright824@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-02-01",
+   "close_date": "2025-02-13",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00021",
+   "client": {
+    "email": "mary.green591@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-02-21",
+   "close_date": "2025-03-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00022",
+   "client": {
+    "email": "patricia.lee911@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-02-05",
+   "close_date": "2025-12-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00023",
+   "client": {
+    "email": "robert.jones907@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-02-26",
+   "close_date": "2025-03-28",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00024",
+   "client": {
+    "email": "jennifer.martin88@Example.com "
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-02-27",
+   "close_date": "2025-03-04",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00025",
+   "client": {
+    "email": "michael.williams243@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-02-24",
+   "close_date": "2025-04-28",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00026",
+   "client": {
+    "email": "elizabeth.thomas124@Example.com "
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-03-06",
+   "close_date": "2025-03-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00027",
+   "client": {
+    "email": "elizabeth.young145@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-03-06",
+   "close_date": "2025-03-26",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00028",
+   "client": {
+    "email": "daniel.hernandez957@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-03-04",
+   "close_date": "2025-12-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00029",
+   "client": {
+    "email": "robert.jackson245@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-03-19",
+   "close_date": "2025-09-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00030",
+   "client": {
+    "email": "barbara.baker474@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-03-27",
+   "close_date": "2025-04-21",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00031",
+   "client": {
+    "email": "daniel.miller356@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-03-18",
+   "close_date": "2025-04-09",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00032",
+   "client": {
+    "email": "angela.allen557@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-03-21",
+   "close_date": "2025-08-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00033",
+   "client": {
+    "email": "elizabeth.jackson86@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-03-31",
+   "close_date": "2025-08-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00034",
+   "client": {
+    "email": "eric.moore582@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-03-24",
+   "close_date": "2025-04-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00035",
+   "client": {
+    "email": "william.wilson785@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-03-24",
+   "close_date": "2025-09-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00036",
+   "client": {
+    "email": "wei.green432@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-03-30",
+   "close_date": "2025-05-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00037",
+   "client": {
+    "email": "joseph.adams276@Example.com "
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-04-07",
+   "close_date": "2025-06-26",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00038",
+   "client": {
+    "email": "robert.miller806@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-03-27",
+   "close_date": "2025-06-04",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00039",
+   "client": {
+    "email": "daniel.wilson234@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-04-08",
+   "close_date": "2025-06-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00040",
+   "client": {
+    "email": "angela.davis667@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-04-13",
+   "close_date": "2025-08-03",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00041",
+   "client": {
+    "email": "eric.anderson629@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-03-29",
+   "close_date": "2025-04-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00042",
+   "client": {
+    "email": "laura.hall150@Example.com "
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-04-11",
+   "close_date": "2025-05-17",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00043",
+   "client": {
+    "email": "rachel.anderson747@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-04-19",
+   "close_date": "2025-05-08",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00044",
+   "client": {
+    "email": "david.moore836@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-04-08",
+   "close_date": "2025-08-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00045",
+   "client": {
+    "email": "mary.jackson198@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-04-16",
+   "close_date": "2026-01-02",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00046",
+   "client": {
+    "email": "wei.nguyen945@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-05-02",
+   "close_date": "2025-07-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00047",
+   "client": {
+    "email": "mary.baker282@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-05-03",
+   "close_date": "2025-06-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00048",
+   "client": {
+    "email": "jennifer.taylor426@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-04-22",
+   "close_date": "2025-05-02",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00049",
+   "client": {
+    "email": "barbara.johnson334@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-04-19",
+   "close_date": "2025-05-21",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00050",
+   "client": {
+    "email": "lisa.baker110@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-04-14",
+   "close_date": "2026-04-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00051",
+   "client": {
+    "email": "brian.baker855@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-04-27",
+   "close_date": "2025-07-03",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00052",
+   "client": {
+    "email": "james.jackson357@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-04-27",
+   "close_date": "2025-09-08",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00053",
+   "client": {
+    "email": "robert.young327@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-05-19",
+   "close_date": "2025-07-08",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00054",
+   "client": {
+    "email": "kevin.martin424@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-05-01",
+   "close_date": "2026-02-28",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00055",
+   "client": {
+    "email": "richard.miller4@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-04-29",
+   "close_date": "2025-06-09",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00056",
+   "client": {
+    "email": "lisa.wright547@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-04-30",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00057",
+   "client": {
+    "email": "susan.anderson3@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-05-01",
+   "close_date": "2025-08-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00058",
+   "client": {
+    "email": "laura.hall889@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-05-09",
+   "close_date": "2025-09-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00059",
+   "client": {
+    "email": "eric.green975@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-05-13",
+   "close_date": "2025-09-05",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00060",
+   "client": {
+    "email": "sarah.walker896@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-04-26",
+   "close_date": "2025-05-23",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00061",
+   "client": {
+    "email": "robert.johnson735@Example.com "
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-05-13",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00062",
+   "client": {
+    "email": "brian.smith373@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-05-12",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00063",
+   "client": {
+    "email": "aisha.moore399@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-05-15",
+   "close_date": "2025-07-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00064",
+   "client": {
+    "email": "robert.brown190@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-05-21",
+   "close_date": "2025-12-02",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00065",
+   "client": {
+    "email": "lisa.johnson266@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-04-29",
+   "close_date": "2025-07-01",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00066",
+   "client": {
+    "email": "eric.williams85@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-05-14",
+   "close_date": "2025-06-23",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00067",
+   "client": {
+    "email": "james.lopez155@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-05-17",
+   "close_date": "2025-12-31",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00068",
+   "client": {
+    "email": "brian.johnson328@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-05-09",
+   "close_date": "2025-08-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00069",
+   "client": {
+    "email": "angela.lee531@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-05-22",
+   "close_date": "2025-10-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00070",
+   "client": {
+    "email": "brian.baker557@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-05-17",
+   "close_date": "2025-10-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00071",
+   "client": {
+    "email": "carlos.smith388@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-05-19",
+   "close_date": "2025-07-30",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00072",
+   "client": {
+    "email": "joseph.patel352@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-05-11",
+   "close_date": "2025-09-05",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00073",
+   "client": {
+    "email": "jennifer.williams750@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-05-19",
+   "close_date": "2025-06-21",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00074",
+   "client": {
+    "email": "thomas.walker748@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-05-18",
+   "close_date": "2025-11-01",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00075",
+   "client": {
+    "email": "jessica.lee886@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-05-15",
+   "close_date": "2025-06-30",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00076",
+   "client": {
+    "email": "elizabeth.king845@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-05-29",
+   "close_date": "2025-07-14",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00077",
+   "client": {
+    "email": "laura.smith474@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-05-11",
+   "close_date": "2025-08-14",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00078",
+   "client": {
+    "email": "maria.rodriguez374@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-05-31",
+   "close_date": "2025-06-30",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00079",
+   "client": {
+    "email": "susan.baker86@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-05-25",
+   "close_date": "2025-07-20",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00080",
+   "client": {
+    "email": "robert.walker938@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-05-22",
+   "close_date": "2025-11-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00081",
+   "client": {
+    "email": "richard.williams455@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-05-23",
+   "close_date": "2025-08-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00082",
+   "client": {
+    "email": "jessica.adams173@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-05-19",
+   "close_date": "2025-09-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00083",
+   "client": {
+    "email": "sarah.king925@Example.com "
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-06-12",
+   "close_date": "2025-10-22",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00084",
+   "client": {
+    "email": "maria.williams820@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-06-10",
+   "close_date": "2026-01-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00085",
+   "client": {
+    "email": "angela.hall390@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-06-04",
+   "close_date": "2026-03-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00086",
+   "client": {
+    "email": "jessica.walker731@Example.com "
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-05-31",
+   "close_date": "2025-06-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00087",
+   "client": {
+    "email": "robert.wilson315@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-06-04",
+   "close_date": "2026-06-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00088",
+   "client": {
+    "email": "omar.garcia515@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-06-18",
+   "close_date": "2025-07-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00089",
+   "client": {
+    "email": "maria.jackson954@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-06-01",
+   "close_date": "2025-09-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00090",
+   "client": {
+    "email": "eric.moore885@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-05-27",
+   "close_date": "2025-06-26",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00091",
+   "client": {
+    "email": "elizabeth.scott315@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-06-13",
+   "close_date": "2025-07-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00092",
+   "client": {
+    "email": "laura.miller887@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-06-27",
+   "close_date": "2026-02-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00093",
+   "client": {
+    "email": "sarah.khan116@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-06-24",
+   "close_date": "2025-12-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00094",
+   "client": {
+    "email": "jason.adams9@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-06-17",
+   "close_date": "2025-09-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00095",
+   "client": {
+    "email": "mary.smith623@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-07-10",
+   "close_date": "2025-09-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00096",
+   "client": {
+    "email": "eric.johnson755@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-06-26",
+   "close_date": "2025-11-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00097",
+   "client": {
+    "email": "kevin.brown500@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-06-21",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00098",
+   "client": {
+    "email": "priya.davis921@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-06-26",
+   "close_date": "2025-08-08",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00099",
+   "client": {
+    "email": "maria.martin937@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-06-28",
+   "close_date": "2025-10-21",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00100",
+   "client": {
+    "email": "thomas.patel912@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-07-10",
+   "close_date": "2025-09-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00101",
+   "client": {
+    "email": "susan.wright435@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-07-02",
+   "close_date": "2025-09-29",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00102",
+   "client": {
+    "email": "omar.miller523@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-07-17",
+   "close_date": "2026-02-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00103",
+   "client": {
+    "email": "patricia.lopez888@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-07-08",
+   "close_date": "2025-10-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00104",
+   "client": {
+    "email": "angela.patel23@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-07-01",
+   "close_date": "2025-08-29",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00105",
+   "client": {
+    "email": "daniel.jones868@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-06-30",
+   "close_date": "2026-01-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00106",
+   "client": {
+    "email": "brian.patel212@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-06-26",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00107",
+   "client": {
+    "email": "sarah.lopez714@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-07-07",
+   "close_date": "2026-02-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00108",
+   "client": {
+    "email": "john.green963@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-07-02",
+   "close_date": "2025-07-08",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00109",
+   "client": {
+    "email": "thomas.garcia195@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-07-10",
+   "close_date": "2025-08-26",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00110",
+   "client": {
+    "email": "patricia.garcia990@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-07-08",
+   "close_date": "2025-11-02",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00111",
+   "client": {
+    "email": "maria.hall54@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-07-10",
+   "close_date": "2025-10-25",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00112",
+   "client": {
+    "email": "patricia.wright736@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-07-31",
+   "close_date": "2025-11-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00113",
+   "client": {
+    "email": "robert.rodriguez204@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-07-18",
+   "close_date": "2025-12-03",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00114",
+   "client": {
+    "email": "brian.anderson190@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-07-27",
+   "close_date": "2025-08-31",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00115",
+   "client": {
+    "email": "laura.king816@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-08-01",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00116",
+   "client": {
+    "email": "michael.johnson144@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-08-02",
+   "close_date": "2026-01-31",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00117",
+   "client": {
+    "email": "omar.jackson229@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-08-05",
+   "close_date": "2026-05-08",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00118",
+   "client": {
+    "email": "jennifer.hernandez898@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-07-28",
+   "close_date": "2025-12-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00119",
+   "client": {
+    "email": "robert.miller672@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-08-01",
+   "close_date": "2026-03-08",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00120",
+   "client": {
+    "email": "unknown4054@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-08-04",
+   "close_date": "2026-03-04",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00121",
+   "client": {
+    "email": "wei.williams832@Example.com "
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-08-02",
+   "close_date": "2025-10-20",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00122",
+   "client": {
+    "email": "laura.williams612@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-07-27",
+   "close_date": "2025-08-03",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00123",
+   "client": {
+    "email": "robert.miller285@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-07-27",
+   "close_date": "2026-03-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00124",
+   "client": {
+    "email": "jessica.jackson829@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-08-20",
+   "close_date": "2026-05-20",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00125",
+   "client": {
+    "email": "kevin.patel269@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-08-03",
+   "close_date": "2025-11-25",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00126",
+   "client": {
+    "email": "nancy.baker504@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-08-07",
+   "close_date": "2025-10-31",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00127",
+   "client": {
+    "email": "thomas.wilson502@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-08-16",
+   "close_date": "2026-01-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00128",
+   "client": {
+    "email": "linda.martinez654@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-08-14",
+   "close_date": "2025-10-04",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00129",
+   "client": {
+    "email": "richard.brown573@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-08-07",
+   "close_date": "2026-04-26",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00130",
+   "client": {
+    "email": "patricia.scott169@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-08-12",
+   "close_date": "2025-10-03",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00131",
+   "client": {
+    "email": "laura.miller788@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-08-20",
+   "close_date": "2025-10-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00132",
+   "client": {
+    "email": "rachel.thomas857@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-08-26",
+   "close_date": "2025-12-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00133",
+   "client": {
+    "email": "thomas.martin227@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-08-10",
+   "close_date": "2025-08-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00134",
+   "client": {
+    "email": "david.allen756@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-08-24",
+   "close_date": "2025-12-04",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00135",
+   "client": {
+    "email": "daniel.lee726@Example.com "
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-08-22",
+   "close_date": "2026-07-25",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00136",
+   "client": {
+    "email": "barbara.khan454@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-09-03",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00137",
+   "client": {
+    "email": "wei.smith700@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-08-27",
+   "close_date": "2026-04-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00138",
+   "client": {
+    "email": "linda.garcia842@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-09-09",
+   "close_date": "2025-09-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00139",
+   "client": {
+    "email": "carlos.lee407@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-08-30",
+   "close_date": "2025-12-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00140",
+   "client": {
+    "email": "rachel.khan438@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-09-15",
+   "close_date": "2026-02-16",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00141",
+   "client": {
+    "email": "joseph.rodriguez961@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-09-10",
+   "close_date": "2025-11-30",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00142",
+   "client": {
+    "email": "susan.rodriguez69@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-09-27",
+   "close_date": "2025-12-21",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00143",
+   "client": {
+    "email": "william.miller410@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-09-22",
+   "close_date": "2025-11-01",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00144",
+   "client": {
+    "email": "angela.thomas925@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-09-16",
+   "close_date": "2026-01-23",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00145",
+   "client": {
+    "email": "jessica.taylor388@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-10-04",
+   "close_date": "2025-11-23",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00146",
+   "client": {
+    "email": "barbara.smith171@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-10-01",
+   "close_date": "2026-03-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00147",
+   "client": {
+    "email": "aisha.wright707@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-09-26",
+   "close_date": "2025-10-28",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00148",
+   "client": {
+    "email": "priya.brown241@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-09-27",
+   "close_date": "2026-01-29",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00149",
+   "client": {
+    "email": "michael.wilson197@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-09-27",
+   "close_date": "2025-11-01",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00150",
+   "client": {
+    "email": "priya.walker301@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-10-12",
+   "close_date": "2026-02-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00151",
+   "client": {
+    "email": "kevin.martinez83@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-10-05",
+   "close_date": "2026-03-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00152",
+   "client": {
+    "email": "omar.jackson338@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-10-11",
+   "close_date": "2025-12-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00153",
+   "client": {
+    "email": "david.khan687@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-10-18",
+   "close_date": "2025-11-25",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00154",
+   "client": {
+    "email": "angela.williams271@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-10-11",
+   "close_date": "2026-03-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00155",
+   "client": {
+    "email": "angela.anderson153@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-10-23",
+   "close_date": "2026-02-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00156",
+   "client": {
+    "email": "jason.green268@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-10-22",
+   "close_date": "2026-04-22",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00157",
+   "client": {
+    "email": "david.allen240@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-10-28",
+   "close_date": "2026-02-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00158",
+   "client": {
+    "email": "angela.brown263@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-10-17",
+   "close_date": "2026-01-09",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00159",
+   "client": {
+    "email": "joseph.brown239@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-10-22",
+   "close_date": "2025-11-16",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00160",
+   "client": {
+    "email": "kevin.green86@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-10-12",
+   "close_date": "2025-12-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00161",
+   "client": {
+    "email": "aisha.king85@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-10-20",
+   "close_date": "2025-11-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00162",
+   "client": {
+    "email": "robert.hernandez428@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-10-20",
+   "close_date": "2025-10-31",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00163",
+   "client": {
+    "email": "richard.walker873@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-10-31",
+   "close_date": "2025-12-04",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00164",
+   "client": {
+    "email": "lisa.davis242@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-11-01",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00165",
+   "client": {
+    "email": "richard.green492@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-10-29",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00166",
+   "client": {
+    "email": "unknown4654@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-10-13",
+   "close_date": "2025-11-23",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00167",
+   "client": {
+    "email": "thomas.smith782@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-10-22",
+   "close_date": "2025-11-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00168",
+   "client": {
+    "email": "joseph.king28@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-10-20",
+   "close_date": "2025-11-17",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00169",
+   "client": {
+    "email": "rachel.lopez720@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-10-29",
+   "close_date": "2025-12-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00170",
+   "client": {
+    "email": "patricia.king781@Example.com "
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-10-22",
+   "close_date": "2026-05-05",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00171",
+   "client": {
+    "email": "thomas.anderson200@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-10-23",
+   "close_date": "2025-11-16",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00172",
+   "client": {
+    "email": "carlos.williams864@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-11-16",
+   "close_date": "2025-11-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00173",
+   "client": {
+    "email": "brian.jackson101@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-11-02",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00174",
+   "client": {
+    "email": "eric.wilson668@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-10-30",
+   "close_date": "2025-11-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00175",
+   "client": {
+    "email": "mary.patel214@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-11-07",
+   "close_date": "2026-01-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00176",
+   "client": {
+    "email": "robert.davis589@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-11-03",
+   "close_date": "2026-03-02",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00177",
+   "client": {
+    "email": "maria.patel624@Example.com "
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-11-16",
+   "close_date": "2026-02-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00178",
+   "client": {
+    "email": "kevin.thomas576@Example.com "
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-11-21",
+   "close_date": "2025-12-05",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00179",
+   "client": {
+    "email": "carlos.thomas456@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-11-27",
+   "close_date": "2026-05-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00180",
+   "client": {
+    "email": "richard.patel679@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-11-29",
+   "close_date": "2025-12-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00181",
+   "client": {
+    "email": "patricia.patel475@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-11-11",
+   "close_date": "2026-05-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00182",
+   "client": {
+    "email": "kevin.thomas124@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-11-17",
+   "close_date": "2025-11-30",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00183",
+   "client": {
+    "email": "barbara.young359@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-11-29",
+   "close_date": "2025-12-17",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00184",
+   "client": {
+    "email": "rachel.smith876@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-12-02",
+   "close_date": "2026-07-02",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00185",
+   "client": {
+    "email": "robert.martinez801@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-11-21",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00186",
+   "client": {
+    "email": "susan.king304@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-12-05",
+   "close_date": "2026-03-23",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00187",
+   "client": {
+    "email": "william.king208@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-11-14",
+   "close_date": "2026-09-02",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00188",
+   "client": {
+    "email": "james.scott574@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-11-22",
+   "close_date": "2026-07-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00189",
+   "client": {
+    "email": "rachel.king840@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-11-26",
+   "close_date": "2026-06-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00190",
+   "client": {
+    "email": "joseph.jackson354@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-12-08",
+   "close_date": "2025-12-20",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00191",
+   "client": {
+    "email": "priya.brown861@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-12-20",
+   "close_date": "2026-09-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00192",
+   "client": {
+    "email": "daniel.johnson432@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-12-04",
+   "close_date": "2026-04-23",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00193",
+   "client": {
+    "email": "joseph.hall676@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-12-11",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00194",
+   "client": {
+    "email": "joseph.khan165@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-12-19",
+   "close_date": "2026-05-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00195",
+   "client": {
+    "email": "wei.martinez624@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-12-17",
+   "close_date": "2026-04-21",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00196",
+   "client": {
+    "email": "aisha.thomas488@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-12-30",
+   "close_date": "2026-03-04",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00197",
+   "client": {
+    "email": "kevin.lee736@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-12-14",
+   "close_date": "2026-08-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00198",
+   "client": {
+    "email": "rachel.hall409@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-12-10",
+   "close_date": "2026-04-14",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00199",
+   "client": {
+    "email": "wei.green759@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2025-12-22",
+   "close_date": "2026-04-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00200",
+   "client": {
+    "email": "susan.walker585@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2025-12-30",
+   "close_date": "2026-02-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00201",
+   "client": {
+    "email": "michael.lopez234@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2025-12-14",
+   "close_date": "2026-05-26",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00202",
+   "client": {
+    "email": "jennifer.jackson68@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-12-24",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00203",
+   "client": {
+    "email": "laura.wright886@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-12-31",
+   "close_date": "2026-02-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00204",
+   "client": {
+    "email": "joseph.lopez728@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-01-10",
+   "close_date": "2026-05-21",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00205",
+   "client": {
+    "email": "priya.martin183@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-12-27",
+   "close_date": "2026-06-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00206",
+   "client": {
+    "email": "jessica.miller306@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2025-12-25",
+   "close_date": "2026-01-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00207",
+   "client": {
+    "email": "unknown5046@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2025-12-29",
+   "close_date": "2026-05-04",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00208",
+   "client": {
+    "email": "aisha.thomas644@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-01-06",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00209",
+   "client": {
+    "email": "joseph.martin118@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-12-22",
+   "close_date": "2026-03-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00210",
+   "client": {
+    "email": "carlos.thomas943@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2025-12-25",
+   "close_date": "2026-07-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00211",
+   "client": {
+    "email": "james.lopez689@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-01-02",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00212",
+   "client": {
+    "email": "kevin.smith134@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-01-13",
+   "close_date": "2026-05-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00213",
+   "client": {
+    "email": "jennifer.lopez648@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-01-12",
+   "close_date": "2026-02-20",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00214",
+   "client": {
+    "email": "thomas.smith634@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2025-12-27",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00215",
+   "client": {
+    "email": "laura.patel231@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-01-04",
+   "close_date": "2026-03-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00216",
+   "client": {
+    "email": "priya.king386@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-01-19",
+   "close_date": "2026-03-02",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00217",
+   "client": {
+    "email": "john.jones665@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-01-17",
+   "close_date": "2026-02-28",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00218",
+   "client": {
+    "email": "nancy.brown192@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-01-16",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00219",
+   "client": {
+    "email": "jennifer.patel475@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-01-12",
+   "close_date": "2026-05-25",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00220",
+   "client": {
+    "email": "william.wilson903@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-01-20",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00221",
+   "client": {
+    "email": "linda.martin464@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-01-20",
+   "close_date": "2026-09-01",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00222",
+   "client": {
+    "email": "robert.adams648@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-01-17",
+   "close_date": "2026-03-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00223",
+   "client": {
+    "email": "richard.wright931@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-02-02",
+   "close_date": "2026-08-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00224",
+   "client": {
+    "email": "richard.king68@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-01-11",
+   "close_date": "2026-04-23",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00225",
+   "client": {
+    "email": "kevin.wilson756@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-01-23",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00226",
+   "client": {
+    "email": "lisa.walker864@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-02-08",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00227",
+   "client": {
+    "email": "jessica.jones965@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-01-18",
+   "close_date": "2026-03-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00228",
+   "client": {
+    "email": "jennifer.lopez18@Example.com "
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-01-27",
+   "close_date": "2026-06-29",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00229",
+   "client": {
+    "email": "thomas.wright205@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-02-14",
+   "close_date": "2026-04-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00230",
+   "client": {
+    "email": "robert.smith160@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-01-30",
+   "close_date": "2026-02-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00231",
+   "client": {
+    "email": "wei.young684@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-02-09",
+   "close_date": "2026-08-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00232",
+   "client": {
+    "email": "priya.nguyen7@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-02-13",
+   "close_date": "2026-03-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00233",
+   "client": {
+    "email": "eric.thomas691@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-02-25",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00234",
+   "client": {
+    "email": "rachel.williams333@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-02-05",
+   "close_date": "2026-03-28",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00235",
+   "client": {
+    "email": "laura.smith560@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-02-23",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00236",
+   "client": {
+    "email": "laura.rodriguez776@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-02-04",
+   "close_date": "2026-05-21",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00237",
+   "client": {
+    "email": "linda.walker130@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-02-04",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00238",
+   "client": {
+    "email": "jessica.green17@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-02-26",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00239",
+   "client": {
+    "email": "mary.moore953@Example.com "
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-02-08",
+   "close_date": "2026-05-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00240",
+   "client": {
+    "email": "brian.green484@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-02-18",
+   "close_date": "2026-09-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00241",
+   "client": {
+    "email": "laura.scott289@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-03-01",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00242",
+   "client": {
+    "email": "daniel.moore588@Example.com "
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-02-25",
+   "close_date": "2026-03-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00243",
+   "client": {
+    "email": "jessica.walker873@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-03-01",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00244",
+   "client": {
+    "email": "rachel.brown99@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-03-04",
+   "close_date": "2026-08-08",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00245",
+   "client": {
+    "email": "john.king525@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-02-18",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00246",
+   "client": {
+    "email": "jason.patel98@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-02-24",
+   "close_date": "2026-03-23",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00247",
+   "client": {
+    "email": "daniel.wilson561@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-02-22",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00248",
+   "client": {
+    "email": "barbara.wright200@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-02-22",
+   "close_date": "2026-07-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00249",
+   "client": {
+    "email": "rachel.miller978@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-03-16",
+   "close_date": "2026-07-21",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00250",
+   "client": {
+    "email": "jennifer.brown816@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-03-12",
+   "close_date": "2026-07-04",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00251",
+   "client": {
+    "email": "sarah.garcia230@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-03-06",
+   "close_date": "2026-03-20",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00252",
+   "client": {
+    "email": "maria.jones722@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-03-08",
+   "close_date": "2026-05-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00253",
+   "client": {
+    "email": "thomas.hernandez411@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-02-25",
+   "close_date": "2026-09-17",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00254",
+   "client": {
+    "email": "thomas.young53@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-03-14",
+   "close_date": "2026-05-21",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00255",
+   "client": {
+    "email": "william.wright585@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-03-04",
+   "close_date": "2026-05-22",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00256",
+   "client": {
+    "email": "rachel.johnson325@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-02-28",
+   "close_date": "2026-05-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00257",
+   "client": {
+    "email": "richard.green244@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-03-02",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00258",
+   "client": {
+    "email": "james.khan393@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-03-24",
+   "close_date": "2026-05-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00259",
+   "client": {
+    "email": "david.martinez439@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-03-11",
+   "close_date": "2026-08-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00260",
+   "client": {
+    "email": "omar.green581@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-03-17",
+   "close_date": "2026-04-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00261",
+   "client": {
+    "email": "patricia.williams758@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-03-15",
+   "close_date": "2026-07-14",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00262",
+   "client": {
+    "email": "mary.smith50@Example.com "
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-03-12",
+   "close_date": "2026-04-05",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00263",
+   "client": {
+    "email": "brian.lopez873@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-03-21",
+   "close_date": "2026-05-25",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00264",
+   "client": {
+    "email": "laura.taylor936@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-03-31",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00265",
+   "client": {
+    "email": "laura.davis460@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-03-23",
+   "close_date": "2026-04-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00266",
+   "client": {
+    "email": "barbara.brown77@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-04-06",
+   "close_date": "2026-09-28",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00267",
+   "client": {
+    "email": "robert.brown683@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-03-28",
+   "close_date": "2026-09-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00268",
+   "client": {
+    "email": "jessica.young463@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-03-23",
+   "close_date": "2026-09-16",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00269",
+   "client": {
+    "email": "james.lopez312@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-03-29",
+   "close_date": "2026-05-16",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00270",
+   "client": {
+    "email": "david.anderson420@Example.com "
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-04-11",
+   "close_date": "2026-06-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00271",
+   "client": {
+    "email": "priya.walker549@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-04-04",
+   "close_date": "2026-07-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00272",
+   "client": {
+    "email": "william.patel632@Example.com "
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-04-16",
+   "close_date": "2026-09-22",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00273",
+   "client": {
+    "email": "john.johnson432@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-04-02",
+   "close_date": "2026-05-29",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00274",
+   "client": {
+    "email": "brian.miller959@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-04-10",
+   "close_date": "2026-05-30",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00275",
+   "client": {
+    "email": "lisa.young697@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-04-09",
+   "close_date": "2026-05-25",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00276",
+   "client": {
+    "email": "john.wilson446@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-04-22",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00277",
+   "client": {
+    "email": "michael.jackson81@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-04-23",
+   "close_date": "2026-05-30",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00278",
+   "client": {
+    "email": "michael.lee602@Example.com "
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-04-13",
+   "close_date": "2026-08-04",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00279",
+   "client": {
+    "email": "eric.wright836@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-04-18",
+   "close_date": "2026-05-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00280",
+   "client": {
+    "email": "mary.taylor487@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-04-07",
+   "close_date": "2026-07-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00281",
+   "client": {
+    "email": "carlos.hernandez48@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-04-15",
+   "close_date": "2026-08-03",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00282",
+   "client": {
+    "email": "lisa.johnson846@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-04-29",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00283",
+   "client": {
+    "email": "priya.martinez127@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-04-18",
+   "close_date": "2026-06-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00284",
+   "client": {
+    "email": "john.johnson269@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-04-20",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00285",
+   "client": {
+    "email": "laura.adams165@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-05-02",
+   "close_date": "2026-06-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00286",
+   "client": {
+    "email": "james.johnson715@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-05-04",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00287",
+   "client": {
+    "email": "unknown7767@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-05-02",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00288",
+   "client": {
+    "email": "jessica.lee142@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-05-02",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00289",
+   "client": {
+    "email": "nancy.martinez95@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-04-28",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00290",
+   "client": {
+    "email": "elizabeth.lee470@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-05-01",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00291",
+   "client": {
+    "email": "barbara.green212@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-05-11",
+   "close_date": "2026-07-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00292",
+   "client": {
+    "email": "thomas.martinez698@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-04-18",
+   "close_date": "2026-08-13",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00293",
+   "client": {
+    "email": "jessica.hernandez498@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-05-16",
+   "close_date": "2026-07-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00294",
+   "client": {
+    "email": "jessica.nguyen571@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-05-02",
+   "close_date": "2026-07-13",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00295",
+   "client": {
+    "email": "eric.king610@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-05-15",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00296",
+   "client": {
+    "email": "brian.johnson620@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-05-14",
+   "close_date": "2026-06-25",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00297",
+   "client": {
+    "email": "eric.khan596@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-05-20",
+   "close_date": "2026-09-08",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00298",
+   "client": {
+    "email": "jennifer.nguyen975@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-05-26",
+   "close_date": "2026-07-17",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00299",
+   "client": {
+    "email": "thomas.lopez645@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-05-07",
+   "close_date": "2026-06-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00300",
+   "client": {
+    "email": "michael.green183@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-05-13",
+   "close_date": "2026-07-05",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00301",
+   "client": {
+    "email": "wei.anderson333@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-05-13",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00302",
+   "client": {
+    "email": "richard.wilson221@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-05-11",
+   "close_date": "2026-07-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00303",
+   "client": {
+    "email": "kevin.king995@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-05-20",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00304",
+   "client": {
+    "email": "john.garcia198@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-05-23",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00305",
+   "client": {
+    "email": "david.smith166@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-05-19",
+   "close_date": "2026-07-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00306",
+   "client": {
+    "email": "elizabeth.wilson357@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-05-16",
+   "close_date": "2026-08-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00307",
+   "client": {
+    "email": "aisha.garcia20@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-05-24",
+   "close_date": "2026-06-26",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00308",
+   "client": {
+    "email": "maria.brown799@Example.com "
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-05-23",
+   "close_date": "2026-09-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00309",
+   "client": {
+    "email": "wei.patel274@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-05-16",
+   "close_date": "2026-07-26",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00310",
+   "client": {
+    "email": "carlos.jackson378@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-05-28",
+   "close_date": "2026-09-10",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00311",
+   "client": {
+    "email": "angela.patel384@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-06-07",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00312",
+   "client": {
+    "email": "james.brown280@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-05-26",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00313",
+   "client": {
+    "email": "omar.king552@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-05-31",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00314",
+   "client": {
+    "email": "patricia.green68@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-06-01",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00315",
+   "client": {
+    "email": "john.williams784@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-06-19",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00316",
+   "client": {
+    "email": "wei.martinez661@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-06-12",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00317",
+   "client": {
+    "email": "patricia.khan769@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-05-31",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00318",
+   "client": {
+    "email": "jennifer.nguyen758@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-06-16",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00319",
+   "client": {
+    "email": "lisa.williams337@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-05-29",
+   "close_date": "2026-06-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00320",
+   "client": {
+    "email": "carlos.hall624@example.com"
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-06-25",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00321",
+   "client": {
+    "email": "omar.lopez383@Example.com "
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-06-14",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00322",
+   "client": {
+    "email": "kevin.miller914@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-06-20",
+   "close_date": "2026-08-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00323",
+   "client": {
+    "email": "robert.patel968@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-06-12",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00324",
+   "client": {
+    "email": "angela.miller931@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-06-10",
+   "close_date": "2026-07-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00325",
+   "client": {
+    "email": "elizabeth.walker702@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-06-18",
+   "close_date": "2026-07-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00326",
+   "client": {
+    "email": "linda.martinez872@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-06-30",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00327",
+   "client": {
+    "email": "linda.wilson34@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-06-09",
+   "close_date": "2026-07-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00328",
+   "client": {
+    "email": "richard.green256@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-06-23",
+   "close_date": "2026-09-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00329",
+   "client": {
+    "email": "barbara.rodriguez780@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-06-14",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00330",
+   "client": {
+    "email": "patricia.taylor213@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-06-28",
+   "close_date": "2026-07-05",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00331",
+   "client": {
+    "email": "susan.wright599@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-07-04",
+   "close_date": "2026-07-30",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00332",
+   "client": {
+    "email": "jessica.green331@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-06-24",
+   "close_date": "2026-09-17",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00333",
+   "client": {
+    "email": "joseph.thomas794@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-06-20",
+   "close_date": "2026-07-19",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00334",
+   "client": {
+    "email": "brian.moore294@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-07-01",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00335",
+   "client": {
+    "email": "linda.wilson600@Example.com "
+   },
+   "practice_area": {
+    "name": "Real Estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-06-23",
+   "close_date": "2026-07-11",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00336",
+   "client": {
+    "email": "rachel.baker637@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-06-22",
+   "close_date": "2026-07-20",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00337",
+   "client": {
+    "email": "david.lee461@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-06-26",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00338",
+   "client": {
+    "email": "joseph.lee839@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-06-24",
+   "close_date": "2026-09-27",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00339",
+   "client": {
+    "email": "susan.nguyen568@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-07-10",
+   "close_date": "2026-08-24",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00340",
+   "client": {
+    "email": "sarah.lee799@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-06-28",
+   "close_date": "2026-09-14",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00341",
+   "client": {
+    "email": "thomas.martin359@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-07-02",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00342",
+   "client": {
+    "email": "james.green871@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-07-07",
+   "close_date": "2026-07-16",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00343",
+   "client": {
+    "email": "kevin.jackson899@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-07-11",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00344",
+   "client": {
+    "email": "jennifer.rodriguez676@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-07-10",
+   "close_date": "2026-09-01",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00345",
+   "client": {
+    "email": "sarah.allen57@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-07-18",
+   "close_date": "2026-09-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00346",
+   "client": {
+    "email": "mary.martin521@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-07-25",
+   "close_date": "2026-08-23",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00347",
+   "client": {
+    "email": "linda.moore946@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-07-14",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00348",
+   "client": {
+    "email": "richard.wilson30@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-06-28",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00349",
+   "client": {
+    "email": "elizabeth.brown442@example.com"
+   },
+   "practice_area": {
+    "name": "Family"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-07-13",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00350",
+   "client": {
+    "email": "susan.young103@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-07-15",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00351",
+   "client": {
+    "email": "mary.brown568@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-07-15",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00352",
+   "client": {
+    "email": "omar.green945@Example.com "
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-07-08",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00353",
+   "client": {
+    "email": "barbara.jackson171@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-07-17",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00354",
+   "client": {
+    "email": "nancy.anderson715@Example.com "
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-07-13",
+   "close_date": "2026-09-08",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00355",
+   "client": {
+    "email": "nancy.miller139@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-07-21",
+   "close_date": "2026-08-15",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00356",
+   "client": {
+    "email": "unknown6054@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-07-12",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00357",
+   "client": {
+    "email": "lisa.hernandez102@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-07-26",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00358",
+   "client": {
+    "email": "jason.khan651@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-07-12",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00359",
+   "client": {
+    "email": "jason.garcia168@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-07-30",
+   "close_date": "2026-08-06",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00360",
+   "client": {
+    "email": "james.williams696@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-07-18",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00361",
+   "client": {
+    "email": "linda.baker572@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-08-03",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00362",
+   "client": {
+    "email": "barbara.nguyen613@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-07-11",
+   "close_date": "2026-08-12",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00363",
+   "client": {
+    "email": "nancy.taylor869@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-11",
+   "close_date": "2026-09-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00364",
+   "client": {
+    "email": "kevin.garcia4@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-08-05",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00365",
+   "client": {
+    "email": "aisha.taylor650@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-08-07",
+   "close_date": "2026-09-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00366",
+   "client": {
+    "email": "barbara.hall843@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-08-01",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00367",
+   "client": {
+    "email": "thomas.rodriguez251@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-07-25",
+   "close_date": "2026-08-07",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00368",
+   "client": {
+    "email": "joseph.rodriguez453@example.com"
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-04",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00369",
+   "client": {
+    "email": "richard.allen498@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-07-27",
+   "close_date": "2026-09-01",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00370",
+   "client": {
+    "email": "john.jackson485@example.com"
+   },
+   "practice_area": {
+    "name": "personal injury"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-08-08",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00371",
+   "client": {
+    "email": "angela.scott18@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-07-27",
+   "close_date": "2026-09-30",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00372",
+   "client": {
+    "email": "patricia.wilson397@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-07",
+   "close_date": "2026-08-22",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00373",
+   "client": {
+    "email": "william.smith152@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-13",
+   "close_date": "2026-08-22",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00374",
+   "client": {
+    "email": "richard.moore698@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-10",
+   "close_date": "2026-09-25",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00375",
+   "client": {
+    "email": "eric.rodriguez452@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-08-01",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00376",
+   "client": {
+    "email": "lisa.adams495@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-01",
+   "close_date": "2026-08-31",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00377",
+   "client": {
+    "email": "carlos.allen99@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury "
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-08-16",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00378",
+   "client": {
+    "email": "barbara.hall148@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-05",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00379",
+   "client": {
+    "email": "richard.davis608@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-08-21",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00380",
+   "client": {
+    "email": "richard.adams369@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "F. Haddad"
+   },
+   "open_date": "2026-08-14",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00381",
+   "client": {
+    "email": "michael.brown360@Example.com "
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-22",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00382",
+   "client": {
+    "email": "omar.patel154@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-08-21",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00383",
+   "client": {
+    "email": "kevin.lopez703@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-10",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00384",
+   "client": {
+    "email": "daniel.baker156@Example.com "
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-09",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00385",
+   "client": {
+    "email": "william.scott977@example.com"
+   },
+   "practice_area": {
+    "name": "business law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-14",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00386",
+   "client": {
+    "email": "daniel.davis729@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-21",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00387",
+   "client": {
+    "email": "nancy.jackson220@example.com"
+   },
+   "practice_area": {
+    "name": "family law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-08-29",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00388",
+   "client": {
+    "email": "priya.davis732@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-29",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00389",
+   "client": {
+    "email": "barbara.thomas640@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-31",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00390",
+   "client": {
+    "email": "michael.adams581@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-30",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00391",
+   "client": {
+    "email": "unknown8048@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-08-25",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00392",
+   "client": {
+    "email": "michael.lopez793@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-27",
+   "close_date": "2026-09-22",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00393",
+   "client": {
+    "email": "priya.jackson579@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-17",
+   "close_date": "2026-09-29",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00394",
+   "client": {
+    "email": "nancy.martin54@Example.com "
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-28",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00395",
+   "client": {
+    "email": "susan.allen599@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-09-11",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00396",
+   "client": {
+    "email": "thomas.anderson72@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-31",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00397",
+   "client": {
+    "email": "robert.davis448@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-16",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00398",
+   "client": {
+    "email": "nancy.wright358@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-08-24",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00399",
+   "client": {
+    "email": "linda.scott947@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-09-06",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00400",
+   "client": {
+    "email": "omar.lopez519@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-09-14",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00401",
+   "client": {
+    "email": "nancy.nguyen251@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-09-12",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00402",
+   "client": {
+    "email": "carlos.johnson135@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-09-07",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00403",
+   "client": {
+    "email": "angela.moore470@example.com"
+   },
+   "practice_area": {
+    "name": "Business Law"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-08-31",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00404",
+   "client": {
+    "email": "brian.hall14@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-09-11",
+   "close_date": "2026-09-18",
+   "status": "Closed"
+  },
+  {
+   "id": "M-00405",
+   "client": {
+    "email": "kevin.nguyen543@example.com"
+   },
+   "practice_area": {
+    "name": "PI"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-09-14",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00406",
+   "client": {
+    "email": "john.nguyen701@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-09-12",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00407",
+   "client": {
+    "email": "thomas.williams219@Example.com "
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-09-06",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00408",
+   "client": {
+    "email": "david.thomas183@example.com"
+   },
+   "practice_area": {
+    "name": "real estate"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-09-09",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00409",
+   "client": {
+    "email": "michael.moore340@example.com"
+   },
+   "practice_area": {
+    "name": "RE"
+   },
+   "responsible_attorney": {
+    "name": "A. Morgan"
+   },
+   "open_date": "2026-09-11",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00410",
+   "client": {
+    "email": "mary.lopez506@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-09-17",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00411",
+   "client": {
+    "email": "richard.martin583@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-09-15",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00412",
+   "client": {
+    "email": "jason.davis838@Example.com "
+   },
+   "practice_area": {
+    "name": "Business"
+   },
+   "responsible_attorney": {
+    "name": "G. Brooks"
+   },
+   "open_date": "2026-09-12",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00413",
+   "client": {
+    "email": "mary.lee650@example.com"
+   },
+   "practice_area": {
+    "name": "Personal Injury"
+   },
+   "responsible_attorney": {
+    "name": "C. Okafor"
+   },
+   "open_date": "2026-09-29",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00414",
+   "client": {
+    "email": "omar.moore559@example.com"
+   },
+   "practice_area": {
+    "name": "Estate Plan"
+   },
+   "responsible_attorney": {
+    "name": "E. Schultz"
+   },
+   "open_date": "2026-09-28",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00415",
+   "client": {
+    "email": "robert.brown179@example.com"
+   },
+   "practice_area": {
+    "name": "FAMILY LAW"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-09-18",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00416",
+   "client": {
+    "email": "omar.brown40@example.com"
+   },
+   "practice_area": {
+    "name": "Family Law"
+   },
+   "responsible_attorney": {
+    "name": "B. Chen"
+   },
+   "open_date": "2026-09-23",
+   "close_date": null,
+   "status": "Open"
+  },
+  {
+   "id": "M-00417",
+   "client": {
+    "email": "wei.miller897@example.com"
+   },
+   "practice_area": {
+    "name": "estate planning"
+   },
+   "responsible_attorney": {
+    "name": "D. Rivera"
+   },
+   "open_date": "2026-09-24",
+   "close_date": null,
+   "status": "Open"
+  }
+ ]
+}
